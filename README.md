@@ -2,9 +2,9 @@
 
 # The Social API
 
-This project demonstrates proficiency in the creation and use of a MongoDB MySQL server by producing a fully functional API backend for a social networking application. It has functionality for user, thought, and reply creation, modification, and deletion with validation. This backend technology could easily be implemented with a front end to create a seamless social media experience.
+This project demonstrates proficiency in the creation and use of a MongoDB NoSQL server by producing a fully functional API backend for a social networking application. It has functionality for user, thought, and reply creation, modification, and deletion with validation. This backend technology could easily be implemented with a front end to create a seamless social media experience.
 
-In this project, I learned the differences between the relational database model of SQL that I have used in the past and the MySQL document database of MongoDB and Mongoose. I solidified my knowledge of API routing with Express and using and adapting to new Node.js functionalities and packages. I also got better at file management within the project in order to have clean and readable code that makes since, and has the room and structure to expand with the application. The main challenge I faced was just making sure I understood what each piece of the puzzle was doing and how to properly set up the documents to work in the way they are intended to.
+In this project, I learned the differences between the relational database model of SQL that I have used in the past and the NoSQL document database of MongoDB and Mongoose. I solidified my knowledge of API routing with Express and using and adapting to new Node.js functionalities and packages. I also got better at file management within the project in order to have clean and readable code that makes since, and has the room and structure to expand with the application. The main challenge I faced was just making sure I understood what each piece of the puzzle was doing and how to properly set up the documents to work in the way they are intended to.
 
 ## Table of Contents
 
